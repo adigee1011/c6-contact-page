@@ -1,0 +1,21 @@
+body {
+    background: url("evening.webp") no-repeat center;
+    background-size: cover;
+}
+
+.container {
+    width:500px;
+    margin: auto;
+    border: red 1px solid;
+    margin-top: 50px;
+    background-color: rgba(207, 65, 65, 0.5);
+    height: 550px;
+}
+
+input {
+    width: 100%;
+}
+
+label {
+    margin-top: 100px;
+}
